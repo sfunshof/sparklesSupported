@@ -48,10 +48,10 @@
                      
                     <h5> Sparkles Healthcare Ltd </h5>
                     <strong>
-                       Riverbridge House <br>
-                       Guildford Road, Fetcham <br>
-                       Leatherhead <br>
-                       KT22 9AD
+                        35a High Street, <br> 
+                        Bookham, <br>
+                        Leatherhead, <br>
+                        KT23 4AD 
                     </strong>  
                 </div>
             </div>

@@ -10,10 +10,10 @@
                         <li>
                             <i class='flaticon-map-1'></i>
                             <div class="content">
-                                Riverbridge House <br>
-                                Guildford Road, Fetcham <br>
-                                Leatherhead <br>
-                                KT22 9AD
+                               35a High Street, <br> 
+                                Bookham, <br>
+                                Leatherhead, <br>
+                                KT23 4AD 
                             </div>
                         </li>
                         <li>
