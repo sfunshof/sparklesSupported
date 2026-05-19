@@ -153,10 +153,10 @@
                         <br>
                         Snail Mail:
                         Sparkles Healthcare LTD <br>
-                        Riverbridge House <br>
-                        Guildford Road, Fetcham <br>
-                        Leatherhead <br>
-                        KT22 9AD
+                        35a High Street, <br> 
+                        Bookham, <br>
+                        Leatherhead, <br>
+                        KT23 4AD 
                     </p>
                 </div>
             </div>
